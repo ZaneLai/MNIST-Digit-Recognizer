@@ -1,3 +1,4 @@
+The submitted zip file contains complete content
 # MNIST-Digit-Recognizer
 
 ## Environment Dependencies
